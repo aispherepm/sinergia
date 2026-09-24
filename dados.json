@@ -1,0 +1,133 @@
+{
+  "titulo": "Operação Integrada",
+  "eyebrow": "Bradesco Sinergia · Visão do Roadmap",
+  "subtitulo": "Visão geral das entregas e progresso",
+  "dataRef": "2026-09-24",
+  "responsavel": "Mineide Costa Pissinati",
+  "criterio": "simples",
+  "etapas": [
+    {
+      "nome": "Elegibilidade",
+      "pct": 80,
+      "status": "Em homologação",
+      "peso": 10,
+      "icone": "funil"
+    },
+    {
+      "nome": "Cadastro",
+      "pct": 88,
+      "status": "Em homologação",
+      "peso": 30,
+      "icone": "cadastro"
+    },
+    {
+      "nome": "Busca DOC",
+      "pct": 70,
+      "status": "Em homologação",
+      "peso": 10,
+      "icone": "documento"
+    },
+    {
+      "nome": "Notificação",
+      "pct": 60,
+      "status": "Em homologação",
+      "peso": 10,
+      "icone": "notificacao"
+    },
+    {
+      "nome": "Distribuição",
+      "pct": 80,
+      "status": "Em andamento",
+      "peso": 30,
+      "icone": "distribuicao"
+    },
+    {
+      "nome": "Ajuizamento",
+      "pct": 0,
+      "status": "Não iniciado",
+      "peso": 10,
+      "icone": "ajuizamento"
+    }
+  ],
+  "historico": [
+    {
+      "data": "2026-05-15",
+      "pct": 31
+    },
+    {
+      "data": "2026-05-19",
+      "pct": 33
+    },
+    {
+      "data": "2026-05-28",
+      "pct": 53
+    },
+    {
+      "data": "2026-06-11",
+      "pct": 65
+    }
+  ],
+  "titulos": {
+    "progresso": "Progresso geral",
+    "evolucao": "Evolução do progresso geral",
+    "quadro1": "Observações",
+    "quadro2": "Próximas entregas",
+    "quadro3": "Quadro de entregas"
+  },
+  "prazo": {
+    "mostrar": true,
+    "marco": "Distribuição",
+    "previsao": "2026-04-30",
+    "titulo": "impactos",
+    "mensagem": "A esteira apresentou desaceleração em decorrência da migração para o Databricks e das adequações necessárias nos layouts.\n",
+    "cor": "auto",
+    "mostrarData": false,
+    "mostrarStatus": false
+  },
+  "melhorias": [
+    {
+      "texto": "Esteira de elegibilidade em homolgação "
+    },
+    {
+      "texto": "Esteira de cadastro em homologação"
+    },
+    {
+      "texto": "Esteira de notificação (em homologação com as BPO's)"
+    },
+    {
+      "texto": "Esteira de distribuição aguardando processamento da carga postada  em 23/09. A homologação será finalizada em 25/09."
+    }
+  ],
+  "proximas": [
+    {
+      "titulo": "Ajuizamento",
+      "itens": "Documentação realizada e mockups construídos. Falta validar."
+    }
+  ],
+  "quadro": [
+    {
+      "entrega": "Homologação do Elegível",
+      "previsao": "25/09",
+      "status": "Em andamento"
+    },
+    {
+      "entrega": "Homolo",
+      "previsao": "Próxima entrega",
+      "status": "Não iniciado"
+    },
+    {
+      "entrega": "Evolução Esteira Ajuizamento",
+      "previsao": "Próxima entrega",
+      "status": "Não iniciado"
+    }
+  ],
+  "obs": "Os percentuais refletem o progresso realizado por etapa no roadmap.",
+  "visivel": {
+    "progresso": true,
+    "evolucao": true,
+    "quadro1": true,
+    "quadro2": true,
+    "quadro3": false
+  },
+  "_pub": 1790260166393
+}
