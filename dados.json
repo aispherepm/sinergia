@@ -8,7 +8,7 @@
   "etapas": [
     {
       "nome": "Elegibilidade",
-      "pct": 83,
+      "pct": 100,
       "status": "Em homologação",
       "peso": 10,
       "icone": "funil"
@@ -95,7 +95,7 @@
       "texto": "Esteira de Notificação -  aguardando homologação com as BPO's - Ana Satiko"
     },
     {
-      "texto": "Esteira de Distribuição - aguardando homologação Mayara - Previsão 29/09"
+      "texto": "Esteira de Distribuição - aguardando homologação Mayara - Previsão 30/09"
     }
   ],
   "proximas": [
@@ -133,5 +133,5 @@
     "quadro2": true,
     "quadro3": false
   },
-  "_pub": 1790685773176
+  "_pub": 1790686617399
 }
