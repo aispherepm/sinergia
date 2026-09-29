@@ -2,20 +2,20 @@
   "titulo": "Operação Integrada",
   "eyebrow": "Bradesco Sinergia · Visão do Roadmap",
   "subtitulo": "Visão geral das entregas e progresso",
-  "dataRef": "2026-09-24",
-  "responsavel": "Mineide Costa Pissinati",
-  "criterio": "simples",
+  "dataRef": "2026-09-29",
+  "responsavel": "Desiree Manoel",
+  "criterio": "ponderado",
   "etapas": [
     {
       "nome": "Elegibilidade",
-      "pct": 80,
+      "pct": 83,
       "status": "Em homologação",
       "peso": 10,
       "icone": "funil"
     },
     {
       "nome": "Cadastro",
-      "pct": 88,
+      "pct": 89,
       "status": "Em homologação",
       "peso": 30,
       "icone": "cadastro"
@@ -79,29 +79,33 @@
     "marco": "Distribuição",
     "previsao": "2026-04-30",
     "titulo": "impactos",
-    "mensagem": "A esteira apresentou desaceleração em decorrência da migração para o Databricks e das adequações necessárias nos layouts.\n",
+    "mensagem": "A esteira apresentou desaceleração em decorrência da migração para o Databricks e das adequações necessárias nos layouts.\nEsteira de Notificação - 1 atividade em atraso (Melhoria da postagem do retorno das bases das BPO's com alteração do layout). Nova data de entrega 29/09.",
     "cor": "auto",
     "mostrarData": false,
     "mostrarStatus": false
   },
   "melhorias": [
     {
-      "texto": "Esteira de elegibilidade em homolgação "
+      "texto": "Esteira \"Busca de Doc\" - Aguardando correção  da regra de duplicidade de contrato da base Banco  - Será concluído hoje."
     },
     {
-      "texto": "Esteira de cadastro em homologação"
+      "texto": "Concluímos e homogação a esteira de Cadastro em 29/09"
     },
     {
-      "texto": "Esteira de notificação (em homologação com as BPO's)"
+      "texto": "Esteira de Notificação -  aguardando homologação com as BPO's - Ana Satiko"
     },
     {
-      "texto": "Esteira de distribuição aguardando processamento da carga postada  em 23/09. A homologação será finalizada em 25/09."
+      "texto": "Esteira de Distribuição - aguardando homologação Mayara - Previsão 29/09"
     }
   ],
   "proximas": [
     {
       "titulo": "Ajuizamento",
       "itens": "Documentação realizada e mockups construídos. Falta validar."
+    },
+    {
+      "titulo": "Cadastro",
+      "itens": "População das colunas \"Data_fato\" e \"Fundamento\" na base Cadastro/ Complemento solicitado em 25/09 - Conclusão 01/10."
     }
   ],
   "quadro": [
@@ -129,5 +133,5 @@
     "quadro2": true,
     "quadro3": false
   },
-  "_pub": 1790683958485
+  "_pub": 1790685678805
 }
