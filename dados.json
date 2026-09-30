@@ -75,7 +75,7 @@
     "quadro3": "Quadro de entregas"
   },
   "prazo": {
-    "mostrar": true,
+    "mostrar": false,
     "marco": "Distribuição",
     "previsao": "2026-04-30",
     "titulo": "impactos",
@@ -133,5 +133,5 @@
     "quadro2": true,
     "quadro3": false
   },
-  "_pub": 1790799232034
+  "_pub": 1790800039172
 }
