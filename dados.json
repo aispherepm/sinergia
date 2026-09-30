@@ -2,8 +2,8 @@
   "titulo": "Operação Integrada",
   "eyebrow": "Bradesco Sinergia · Visão do Roadmap",
   "subtitulo": "Visão geral das entregas e progresso",
-  "dataRef": "2026-09-29",
-  "responsavel": "Desiree Manoel",
+  "dataRef": "2026-09-30",
+  "responsavel": "",
   "criterio": "ponderado",
   "etapas": [
     {
@@ -86,22 +86,22 @@
   },
   "melhorias": [
     {
-      "texto": "Esteira \"Busca de Doc\" - Aguardando correção  da regra de duplicidade de contrato da base Banco  - Será concluído hoje."
+      "texto": "Esteira \"Busca de Doc\" - Durante a homogação de hoje 30/09 ocorreu um erro de processamento da carga.. Foi corrigido, precisamos homologar com a BPO."
     },
     {
-      "texto": "Esteira de cadastro - Recebemos um novo pedido de ajuste no dia 25/09. As atividades anteriores foram homologadas em 28/09."
+      "texto": "Esteira de Cadastro - Melhoria está disponível para validação no próximo retorno da carga."
     },
     {
       "texto": "Esteira de Notificação -  aguardando homologação com as BPO's - Ana Satiko"
     },
     {
-      "texto": "Esteira de Distribuição - aguardando homologação Mayara - Previsão 30/09"
+      "texto": "Esteira de Distribuição - Aguardando"
     }
   ],
   "proximas": [
     {
       "titulo": "Ajuizamento",
-      "itens": "Documentação realizada e mockups construídos. Falta validar."
+      "itens": "Enviada a especificação para validação por e-mail. Será necessária uma agenda para esclarecimento de definições. A partir da validação da especificação, foi estimado até 30 dias para entrega. "
     },
     {
       "titulo": "Cadastro",
@@ -133,5 +133,5 @@
     "quadro2": true,
     "quadro3": false
   },
-  "_pub": 1790686617399
+  "_pub": 1790797970469
 }
