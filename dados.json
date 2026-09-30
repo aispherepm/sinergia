@@ -22,7 +22,7 @@
     },
     {
       "nome": "Busca DOC",
-      "pct": 70,
+      "pct": 100,
       "status": "Em homologação",
       "peso": 10,
       "icone": "documento"
@@ -86,7 +86,7 @@
   },
   "melhorias": [
     {
-      "texto": "Esteira \"Busca de Doc\" - Durante a homogação de hoje 30/09 ocorreu um erro de processamento da carga.. Foi corrigido, precisamos homologar com a BPO."
+      "texto": "Esteira \"Busca de Doc\" - Homologado em call em 30/09 com a BPO e Aline."
     },
     {
       "texto": "Esteira de Cadastro - Melhoria está disponível para validação no próximo retorno da carga."
@@ -133,5 +133,5 @@
     "quadro2": true,
     "quadro3": false
   },
-  "_pub": 1790797970469
+  "_pub": 1790799232034
 }
